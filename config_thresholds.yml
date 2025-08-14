@@ -1,0 +1,415 @@
+VELOCITY:
+  INDEX_FINGER_DIP:
+    min: 0.0004
+    max: 21.4642
+  INDEX_FINGER_MCP:
+    min: 0.0001
+    max: 18.8085
+  INDEX_FINGER_PIP:
+    min: 0.0006
+    max: 20.8276
+  INDEX_FINGER_TIP:
+    min: 0.0017
+    max: 22.0120
+  LEFT_EAR:
+    min: 0.0027
+    max: 5.8108
+  LEFT_EYE:
+    min: 0.0064
+    max: 6.9684
+  LEFT_EYE_INNER:
+    min: 0.0035
+    max: 6.8704
+  LEFT_EYE_OUTER:
+    min: 0.0019
+    max: 7.0858
+  LEFT_SHOULDER:
+    min: 0.0016
+    max: 4.0105
+  MIDDLE_FINGER_DIP:
+    min: 0.0009
+    max: 22.2017
+  MIDDLE_FINGER_MCP:
+    min: 0.0004
+    max: 19.4223
+  MIDDLE_FINGER_PIP:
+    min: 0.0001
+    max: 20.9977
+  MIDDLE_FINGER_TIP:
+    min: 0.0018
+    max: 22.9904
+  MOUTH_LEFT:
+    min: 0.0028
+    max: 6.2696
+  MOUTH_RIGHT:
+    min: 0.0025
+    max: 5.5542
+  NOSE:
+    min: 0.0009
+    max: 6.8561
+  PINKY_DIP:
+    min: 0.0004
+    max: 21.5919
+  PINKY_MCP:
+    min: 0.0005
+    max: 19.2860
+  PINKY_PIP:
+    min: 0.0006
+    max: 20.8017
+  PINKY_TIP:
+    min: 0.0004
+    max: 22.3578
+  RIGHT_EAR:
+    min: 0.0012
+    max: 4.0137
+  RIGHT_ELBOW:
+    min: 0.0010
+    max: 11.9835
+  RIGHT_EYE:
+    min: 0.0055
+    max: 6.4305
+  RIGHT_EYE_INNER:
+    min: 0.0008
+    max: 6.8164
+  RIGHT_EYE_OUTER:
+    min: 0.0074
+    max: 5.9911
+  RIGHT_INDEX:
+    min: 0.0056
+    max: 17.2431
+  RIGHT_PINKY:
+    min: 0.0062
+    max: 17.1517
+  RIGHT_SHOULDER:
+    min: 0.0020
+    max: 4.9074
+  RIGHT_THUMB:
+    min: 0.0052
+    max: 16.3305
+  RIGHT_WRIST:
+    min: 0.0049
+    max: 14.1429
+  RING_FINGER_DIP:
+    min: 0.0006
+    max: 22.2619
+  RING_FINGER_MCP:
+    min: 0.0006
+    max: 19.5350
+  RING_FINGER_PIP:
+    min: 0.0006
+    max: 21.3620
+  RING_FINGER_TIP:
+    min: 0.0002
+    max: 22.6411
+  THIRD_THUMB_DIP:
+    min: 0.0031
+    max: 18.8219
+  THIRD_THUMB_MCP:
+    min: 0.0019
+    max: 16.0246
+  THIRD_THUMB_PIP:
+    min: 0.0009
+    max: 17.6675
+  THIRD_THUMB_TIP:
+    min: 0.0045
+    max: 21.0101
+  THUMB_CMC:
+    min: 0.0023
+    max: 15.6608
+  THUMB_IP:
+    min: 0.0006
+    max: 17.7221
+  THUMB_MCP:
+    min: 0.0002
+    max: 16.6830
+  THUMB_TIP:
+    min: 0.0010
+    max: 19.4828
+  WRIST:
+    min: 0.0010
+    max: 15.3898
+
+ACCELERATION:
+  INDEX_FINGER_DIP:
+    min: 0.0003
+    max: 1.8581
+  INDEX_FINGER_MCP:
+    min: 0.0002
+    max: 1.6530
+  INDEX_FINGER_PIP:
+    min: 0.0002
+    max: 1.7830
+  INDEX_FINGER_TIP:
+    min: 0.0000
+    max: 1.8777
+  LEFT_EAR:
+    min: 0.0001
+    max: 0.3538
+  LEFT_EYE:
+    min: 0.0003
+    max: 0.4666
+  LEFT_EYE_INNER:
+    min: 0.0003
+    max: 0.4379
+  LEFT_EYE_OUTER:
+    min: 0.0001
+    max: 0.4609
+  LEFT_SHOULDER:
+    min: 0.0001
+    max: 0.2541
+  MIDDLE_FINGER_DIP:
+    min: 0.0002
+    max: 1.9713
+  MIDDLE_FINGER_MCP:
+    min: 0.0001
+    max: 1.8097
+  MIDDLE_FINGER_PIP:
+    min: 0.0002
+    max: 1.8471
+  MIDDLE_FINGER_TIP:
+    min: 0.0001
+    max: 2.0061
+  MOUTH_LEFT:
+    min: 0.0002
+    max: 0.3921
+  MOUTH_RIGHT:
+    min: 0.0001
+    max: 0.3530
+  NOSE:
+    min: 0.0001
+    max: 0.4307
+  PINKY_DIP:
+    min: 0.0002
+    max: 2.1467
+  PINKY_MCP:
+    min: 0.0001
+    max: 2.0256
+  PINKY_PIP:
+    min: 0.0001
+    max: 2.0866
+  PINKY_TIP:
+    min: 0.0001
+    max: 2.2364
+  RIGHT_EAR:
+    min: 0.0001
+    max: 0.2878
+  RIGHT_ELBOW:
+    min: 0.0001
+    max: 0.8866
+  RIGHT_EYE:
+    min: 0.0001
+    max: 0.3997
+  RIGHT_EYE_INNER:
+    min: 0.0002
+    max: 0.4197
+  RIGHT_EYE_OUTER:
+    min: 0.0001
+    max: 0.3884
+  RIGHT_INDEX:
+    min: 0.0001
+    max: 1.2662
+  RIGHT_PINKY:
+    min: 0.0002
+    max: 1.2160
+  RIGHT_SHOULDER:
+    min: 0.0001
+    max: 0.5525
+  RIGHT_THUMB:
+    min: 0.0001
+    max: 1.2320
+  RIGHT_WRIST:
+    min: 0.0001
+    max: 1.0215
+  RING_FINGER_DIP:
+    min: 0.0001
+    max: 2.1374
+  RING_FINGER_MCP:
+    min: 0.0001
+    max: 1.9503
+  RING_FINGER_PIP:
+    min: 0.0001
+    max: 2.0068
+  RING_FINGER_TIP:
+    min: 0.0001
+    max: 2.1886
+  THIRD_THUMB_DIP:
+    min: 0.0003
+    max: 1.8596
+  THIRD_THUMB_MCP:
+    min: 0.0003
+    max: 1.3303
+  THIRD_THUMB_PIP:
+    min: 0.0002
+    max: 1.5896
+  THIRD_THUMB_TIP:
+    min: 0.0002
+    max: 2.0233
+  THUMB_CMC:
+    min: 0.0004
+    max: 1.3024
+  THUMB_IP:
+    min: 0.0001
+    max: 1.4956
+  THUMB_MCP:
+    min: 0.0000
+    max: 1.3250
+  THUMB_TIP:
+    min: 0.0000
+    max: 1.6783
+  WRIST:
+    min: 0.0003
+    max: 1.3716
+
+APERATURE:
+  INDEX_FINGER_TIP_to_WRIST:
+    min: 72.587
+    max: 131.876
+  RIGHT_ELBOW_to_RIGHT_INDEX:
+    min: 229.649
+    max: 274.984
+  RIGHT_ELBOW_to_RIGHT_PINKY:
+    min: 219.190
+    max: 265.523
+  RIGHT_ELBOW_to_RIGHT_SHOULDER:
+    min: 212.264
+    max: 226.410
+  RIGHT_ELBOW_to_RIGHT_THUMB:
+    min: 214.933
+    max: 259.055
+  RIGHT_ELBOW_to_RIGHT_WRIST:
+    min: 199.137
+    max: 209.683
+  RIGHT_INDEX_to_RIGHT_SHOULDER:
+    min: 229.472
+    max: 483.568
+  RIGHT_INDEX_to_RIGHT_WRIST:
+    min: 57.083
+    max: 69.413
+  RIGHT_PINKY_to_RIGHT_SHOULDER:
+    min: 247.170
+    max: 481.881
+  RIGHT_PINKY_to_RIGHT_WRIST:
+    min: 55.266
+    max: 59.429
+  RIGHT_SHOULDER_to_RIGHT_THUMB:
+    min: 215.518
+    max: 469.155
+  RIGHT_SHOULDER_to_RIGHT_WRIST:
+    min: 223.963
+    max: 429.662
+  RIGHT_THUMB_to_RIGHT_WRIST:
+    min: 40.220
+    max: 53.936
+  THIRD_THUMB_TIP_to_WRIST:
+    min: 5.698
+    max: 138.639
+  THUMB_TIP_to_WRIST:
+    min: 74.519
+    max: 99.881
+  THIRD_THUMB_MCP_to_THIRD_THUMB_PIP:
+    min : 28.015
+    max : 31.786
+  THIRD_THUMB_MCP_to_THIRD_THUMB_DIP:
+    min: 17.76055 
+    max: 61.23716 
+  THIRD_THUMB_MCP_to_THIRD_THUMB_TIP:
+    min : 18.45881 
+    max : 96.49649 
+  THIRD_THUMB_PIP_to_THIRD_THUMB_DIP:
+    min : 28.47059 
+    max : 32.90786 
+  THIRD_THUMB_PIP_to_THIRD_THUMB_TIP:
+    min: 9.76733
+    max: 67.13573
+  THIRD_THUMB_DIP_to_THIRD_THUMB_TIP:
+    min: 33.32028 
+    max: 35.88957 
+
+
+JITTER:
+  INDEX_FINGER_DIP:
+    max: 0.21796
+  INDEX_FINGER_MCP:
+    max: 0.20287
+  INDEX_FINGER_PIP:
+    max: 0.20784
+  INDEX_FINGER_TIP:
+    max: 0.22755
+  LEFT_EAR:
+    max: 0.02319
+  LEFT_EYE:
+    max: 0.02878
+  LEFT_EYE_INNER:
+    max: 0.02643
+  LEFT_EYE_OUTER:
+    max: 0.02903
+  LEFT_SHOULDER:
+    max: 0.01992
+  MIDDLE_FINGER_DIP:
+    max: 0.21407
+  MIDDLE_FINGER_MCP:
+    max: 0.20071
+  MIDDLE_FINGER_PIP:
+    max: 0.20480
+  MIDDLE_FINGER_TIP:
+    max: 0.22813
+  MOUTH_LEFT:
+    max: 0.02497
+  MOUTH_RIGHT:
+    max: 0.02379
+  NOSE:
+    max: 0.02607
+  PINKY_DIP:
+    max: 0.23449
+  PINKY_MCP:
+    max: 0.21246
+  PINKY_PIP:
+    max: 0.21095
+  PINKY_TIP:
+    max: 0.25417
+  RIGHT_EAR:
+    max: 0.02251
+  RIGHT_ELBOW:
+    max: 0.04505
+  RIGHT_EYE:
+    max: 0.02618
+  RIGHT_EYE_INNER:
+    max: 0.02618
+  RIGHT_EYE_OUTER:
+    max: 0.02556
+  RIGHT_INDEX:
+    max: 0.07582
+  RIGHT_PINKY:
+    max: 0.07538
+  RIGHT_SHOULDER:
+    max: 0.02971
+  RIGHT_THUMB:
+    max: 0.06972
+  RIGHT_WRIST:
+    max: 0.06295
+  RING_FINGER_DIP:
+    max: 0.21930
+  RING_FINGER_MCP:
+    max: 0.19924
+  RING_FINGER_PIP:
+    max: 0.21826
+  RING_FINGER_TIP:
+    max: 0.22436
+  THIRD_THUMB_DIP:
+    max: 0.19195
+  THIRD_THUMB_MCP:
+    max: 0.12792
+  THIRD_THUMB_PIP:
+    max: 0.14047
+  THIRD_THUMB_TIP:
+    max: 0.24253
+  THUMB_CMC:
+    max: 0.19682
+  THUMB_IP:
+    max: 0.17683
+  THUMB_MCP:
+    max: 0.17938
+  THUMB_TIP:
+    max: 0.19661
+  WRIST:
+    max: 0.17156
